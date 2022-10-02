@@ -20,7 +20,7 @@ import {FiFilter} from 'react-icons/fi'
 
  const FilterBar = () => {
   return (
-   <section className='w-full h-[60vh] lg:h-auto flex-col items-center sm:flex-col lg:flex-row relative top-[100px] flex justify-around py-6'>
+   <section className='w-full h-[70vh] lg:h-auto flex-col items-center sm:flex-col lg:flex-row relative top-[100px] flex justify-around py-6'>
        <div className=' flex w-3/5    md:w-96 lg:w-60 md:justify-between  items-center justify-between '>
           <div className='flex flex-col justify-center items-center py-1 w-10 lg:w-20 '>
              <GiUfo size={22}/>
