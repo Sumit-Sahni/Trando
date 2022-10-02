@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Trando/static/css/main.9764fbe9.css",
-    "main.js": "/Trando/static/js/main.6089f390.js",
+    "main.css": "/Trando/static/css/main.eb1bf9bc.css",
+    "main.js": "/Trando/static/js/main.4e594021.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Trando/static/js/787.c4e7f8f9.chunk.js",
     "static/media/airbnb.png": "/Trando/static/media/airbnb.9a2de092d55d27b448b5.png",
     "index.html": "/Trando/index.html",
-    "main.9764fbe9.css.map": "/Trando/static/css/main.9764fbe9.css.map",
-    "main.6089f390.js.map": "/Trando/static/js/main.6089f390.js.map",
+    "main.eb1bf9bc.css.map": "/Trando/static/css/main.eb1bf9bc.css.map",
+    "main.4e594021.js.map": "/Trando/static/js/main.4e594021.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Trando/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9764fbe9.css",
-    "static/js/main.6089f390.js"
+    "static/css/main.eb1bf9bc.css",
+    "static/js/main.4e594021.js"
   ]
 }
