@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sumit-Sahni/Trando/static/css/main.9764fbe9.css",
+    "main.js": "/Sumit-Sahni/Trando/static/js/main.ec3d193d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Sumit-Sahni/Trando/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/airbnb.png": "/Sumit-Sahni/Trando/static/media/airbnb.9a2de092d55d27b448b5.png",
+    "index.html": "/Sumit-Sahni/Trando/index.html",
+    "main.9764fbe9.css.map": "/Sumit-Sahni/Trando/static/css/main.9764fbe9.css.map",
+    "main.ec3d193d.js.map": "/Sumit-Sahni/Trando/static/js/main.ec3d193d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Sumit-Sahni/Trando/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9764fbe9.css",
+    "static/js/main.ec3d193d.js"
+  ]
+}
