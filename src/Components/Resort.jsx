@@ -1,8 +1,11 @@
 import React from 'react'
+import FetchAllResort from './FetchAllResort';
 
  const Resort = () => {
   return (
-    <div >Resort</div>
+    <section className='my-12 py-12 '>
+      <FetchAllResort/>
+    </section>
   )
 }
 
